@@ -22,7 +22,7 @@ Hi there,<br>I'm acln aka acln rare.<br>I'm a Js/Py/Java dev and i like to dive 
 [![](https://visitcount.itsvg.in/api?id=ACLNYT&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 If you want help donate here:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.meACLNRARE) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ACLNRARE) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
